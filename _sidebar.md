@@ -2,3 +2,4 @@
   - [基于Docsify的静态博客创建](computer/blogDocsify.md)
   - [常用网站](computer/webSite.md)
 - 生活
+  - [虚拟主播二三事](life/vtuber.md)
