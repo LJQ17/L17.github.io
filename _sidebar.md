@@ -3,3 +3,4 @@
   - [常用网站](computer/webSite.md)
 - 生活
   - [虚拟主播二三事](life/vtuber.md)
+  - [俄剧《入乡随俗推荐》](life/ruxiangsuisu.md)
