@@ -14,6 +14,7 @@ github https://github.com/</br>
 gitee https://gitee.com/</br>
 
 ## JavaScript
+ECMA-262 https://www.ecma-international.org/wp-content/uploads/ECMA-262.pdf<br/>
 JS教程 https://zh.javascript.info/</br>
 MDN https://developer.mozilla.org/zh-CN/</br>
 
